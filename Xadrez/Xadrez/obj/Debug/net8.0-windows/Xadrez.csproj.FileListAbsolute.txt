@@ -1,0 +1,16 @@
+C:\Trabalhos\Theo\Programação\Projetos GitHub\Xadrez\Xadrez\Xadrez\bin\Debug\net8.0-windows\Xadrez.exe
+C:\Trabalhos\Theo\Programação\Projetos GitHub\Xadrez\Xadrez\Xadrez\bin\Debug\net8.0-windows\Xadrez.deps.json
+C:\Trabalhos\Theo\Programação\Projetos GitHub\Xadrez\Xadrez\Xadrez\bin\Debug\net8.0-windows\Xadrez.runtimeconfig.json
+C:\Trabalhos\Theo\Programação\Projetos GitHub\Xadrez\Xadrez\Xadrez\bin\Debug\net8.0-windows\Xadrez.dll
+C:\Trabalhos\Theo\Programação\Projetos GitHub\Xadrez\Xadrez\Xadrez\bin\Debug\net8.0-windows\Xadrez.pdb
+C:\Trabalhos\Theo\Programação\Projetos GitHub\Xadrez\Xadrez\Xadrez\obj\Debug\net8.0-windows\Xadrez.Form1.resources
+C:\Trabalhos\Theo\Programação\Projetos GitHub\Xadrez\Xadrez\Xadrez\obj\Debug\net8.0-windows\Xadrez.csproj.GenerateResource.cache
+C:\Trabalhos\Theo\Programação\Projetos GitHub\Xadrez\Xadrez\Xadrez\obj\Debug\net8.0-windows\Xadrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trabalhos\Theo\Programação\Projetos GitHub\Xadrez\Xadrez\Xadrez\obj\Debug\net8.0-windows\Xadrez.AssemblyInfoInputs.cache
+C:\Trabalhos\Theo\Programação\Projetos GitHub\Xadrez\Xadrez\Xadrez\obj\Debug\net8.0-windows\Xadrez.AssemblyInfo.cs
+C:\Trabalhos\Theo\Programação\Projetos GitHub\Xadrez\Xadrez\Xadrez\obj\Debug\net8.0-windows\Xadrez.csproj.CoreCompileInputs.cache
+C:\Trabalhos\Theo\Programação\Projetos GitHub\Xadrez\Xadrez\Xadrez\obj\Debug\net8.0-windows\Xadrez.dll
+C:\Trabalhos\Theo\Programação\Projetos GitHub\Xadrez\Xadrez\Xadrez\obj\Debug\net8.0-windows\refint\Xadrez.dll
+C:\Trabalhos\Theo\Programação\Projetos GitHub\Xadrez\Xadrez\Xadrez\obj\Debug\net8.0-windows\Xadrez.pdb
+C:\Trabalhos\Theo\Programação\Projetos GitHub\Xadrez\Xadrez\Xadrez\obj\Debug\net8.0-windows\Xadrez.genruntimeconfig.cache
+C:\Trabalhos\Theo\Programação\Projetos GitHub\Xadrez\Xadrez\Xadrez\obj\Debug\net8.0-windows\ref\Xadrez.dll
